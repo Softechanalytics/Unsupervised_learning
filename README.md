@@ -104,6 +104,10 @@ Edit
     ├── elbow_plot.png
     ├── dendrogram.png
     └── cluster_analysis.csv
+## Source
+[Data Source](https://github.com/Softechanalytics/SupervisedLearning/blob/main/Bank_Personal_Loan_Modelling.csv)
+
+[Python Source code](https://github.com/Softechanalytics/SupervisedLearning/blob/main/AIML%20Project%202%20%20Supervised%20Learning%20by%20Chukwuemeka%20Isaac%20Anyakwu.ipynb)
     
 ## 👨‍💻 Author
 Chukwuemeka Isaac Anyakwu
