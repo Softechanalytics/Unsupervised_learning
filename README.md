@@ -48,13 +48,16 @@ The dataset contains information such as:
 
 <li>Visualized distributions and relationships using histograms, boxplots, and pairplots</li>
 </ul>
+
 ##  📊 Clustering Techniques
+
 ### 1. K-Means Clustering
 <ul>
 <li>Used Elbow Method to determine optimal number of clusters</li>
 
 <li>Analyzed clusters using Boxplots</li>
 </ul>
+
 ### 2. Hierarchical Clustering
 <ul>
 <li>Tried different linkage methods (ward, complete, average)</li>
@@ -69,13 +72,14 @@ The dataset contains information such as:
 
 <li>Compared cluster quality and interpretability across both techniques</li>
 </ul>
+
 ## 📈 Key Findings
 <ul>
 <li>Customers were segmented into X distinct clusters (update based on your result)</li>
 
 <li>Each segment showed unique characteristics in terms of spending behavior, service usage, and contact frequency</li>
 
-<li>Hierarchical Clustering performed better/worse compared to K-Means based on silhouette score</li>
+<li>Hierarchical Clustering performed better/worse compared to K-Means based on the silhouette score</li>
 </ul>
 
 ## 💡 Recommendations
@@ -86,6 +90,7 @@ The dataset contains information such as:
 
 <li>Segment 3: Frequent call center users → Improve call support service experience</li>
 </ul>
+
 ## 📁 Project Structure
 lua
 Copy
@@ -99,6 +104,7 @@ Edit
     ├── elbow_plot.png
     ├── dendrogram.png
     └── cluster_analysis.csv
+    
 ## 👨‍💻 Author
 Chukwuemeka Isaac Anyakwu
 Unsupervised Learning Project for Great Learning
