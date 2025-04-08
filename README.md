@@ -13,6 +13,8 @@ This segmentation will assist the Marketing and Operations teams in personalizin
 <li>Recommend strategies for targeted marketing and operational efficiency.</li>
 </ul>
 
+[click to view code](https://github.com/Softechanalytics/Unsupervised_learning/blob/main/Unsupervised%20Learning%20Project%2C%20Anyakwu%2C%20Chukwuemeka%20Isaac.ipynb)
+
 ## 🧰 Tools & Technologies
 <ul>
 <li>Python</li>
@@ -107,7 +109,7 @@ Edit
 ## Additional Resources
 [Data Source](https://github.com/Softechanalytics/SupervisedLearning/blob/main/Bank_Personal_Loan_Modelling.csv)
 
-[Python Source code](https://github.com/Softechanalytics/SupervisedLearning/blob/main/AIML%20Project%202%20%20Supervised%20Learning%20by%20Chukwuemeka%20Isaac%20Anyakwu.ipynb)
+[Python Source code](https://github.com/Softechanalytics/Unsupervised_learning/blob/main/Unsupervised%20Learning%20Project%2C%20Anyakwu%2C%20Chukwuemeka%20Isaac.ipynb)
     
 ## 👨‍💻 Author
 Chukwuemeka Isaac Anyakwu
