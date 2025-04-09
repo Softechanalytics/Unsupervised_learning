@@ -99,13 +99,21 @@ Copy
 Edit
 
 ## 📦 Credit-Card-Customer-Segmentation
+
 ├── Credit Card Customer Data.xlsx
+
 ├── Unsupervised Learning Project.ipynb
+
 ├── README.md
+
 └── output/
+
     ├── elbow_plot.png
+    
     ├── dendrogram.png
+    
     └── cluster_analysis.csv
+    
 ## Additional Resources
 [Data Source](https://github.com/Softechanalytics/Unsupervised_learning/blob/main/Credit%20Card%20Customer%20Data.xlsx)
 
